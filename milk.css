@@ -1,0 +1,11 @@
+*{
+    background-color: #c3a296;
+    color: #311104;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+img{
+    width: 50%;
+    border-radius: 32px;
+}
